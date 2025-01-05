@@ -1,4 +1,5 @@
-name: Combat Log
-version: '1.0'
-main: Periklis20M.pluginDontAskWhyThisIsTheNameNothingSpecial.PluginDontAskWhyThisIsTheNameNothingSpecial
+name: CombatLogPlugin
+version: '${version}'
+main: Periklis20M.pluginDontAskWhyThisIsTheNameNothingSpecial.CombatLogPlugin
 api-version: '1.16'
+description: A plugin that detects and reports combat logging

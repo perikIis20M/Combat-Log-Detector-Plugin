@@ -27,6 +27,6 @@ tasks.withType(JavaCompile).configureEach {
 
 // Add this to see where the JAR is being built
 jar {
-    archiveBaseName = 'Plugin'
+    archiveBaseName = 'CombatLogPlugin'
     destinationDirectory = file("$buildDir/output")
 }
